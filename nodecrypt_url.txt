@@ -8,8 +8,7 @@ gpcloudservice.com
 *.gpcloudservice.com
 google.com
 *.google.com
-home.snavesa.me
-*.home.snavesa.me
+pihole.home.snavesa.me
 okta.com
 *.okta.com
 paloaltonetworks.com
