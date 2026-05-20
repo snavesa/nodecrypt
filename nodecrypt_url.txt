@@ -1,9 +1,5 @@
 akamaized.net
 *.akamaized.net
-github.com
-*.github.com
-githubassets.com
-*.githubassets.com
 gpcloudservice.com
 *.gpcloudservice.com
 google.com
