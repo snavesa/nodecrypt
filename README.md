@@ -1,4 +1,4 @@
-# nodecrypt
+# External Dynamic List for use in nodecrypt policy
 
 EDL created for no push modifications to custom no decrypt policy
 
