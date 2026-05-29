@@ -14,3 +14,4 @@ prismaaccess.com
 *.prismaaccess.com
 talon-sec.com
 *.talon-sec.com
+ztna.snavesa.me
