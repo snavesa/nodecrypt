@@ -5,6 +5,7 @@ gpcloudservice.com
 google.com
 *.google.com
 pihole.home.snavesa.me
+saa-vm300.home.snavesa.me
 okta.com
 *.okta.com
 paloaltonetworks.com
