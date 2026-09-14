@@ -1,5 +1,7 @@
 akamaized.net
 *.akamaized.net
+epm.gpcloudservice.com
+*.epm.gpcloudservice.com
 gpcloudservice.com
 *.gpcloudservice.com
 google.com
@@ -18,4 +20,6 @@ qobuz.com
 *.qobuz.com
 talon-sec.com
 *.talon-sec.com
+zoom.us
+*.zoom.us
 ztna.snavesa.me
