@@ -18,6 +18,8 @@ paloaltonetworks.com
 paloaltonetworks.*.com
 prismaaccess.com
 *.prismaaccess.com
+storage.googleapis.com
+*.storage.googleapis.com
 qobuz.com
 *.qobuz.com
 talon-sec.com
